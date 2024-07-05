@@ -178,6 +178,8 @@ public class cargo {
 	    TwentyFootContainer twentyFootContainer = new TwentyFootContainer(origin20, destination20, number20, weight20, price20, tax20);
 	    twentyFootContainer.DisplayInfo();
 	    
+	    System.out.println("rep");
+	    System.out.println("rep2");
 	
 	}
 }
