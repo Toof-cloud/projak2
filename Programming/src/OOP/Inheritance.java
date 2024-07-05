@@ -56,6 +56,7 @@ import java.util.Scanner;
 		        System.out.println("Choose a shape: ");
 		        System.out.println("1. Rectangle");
 		        System.out.println("2. Circle");
+		        System.out.println("3. Square");
 
 		        int choice = scanner.nextInt();
 
